@@ -1,0 +1,5 @@
+nltk
+numpy
+requests
+senti_classifier
+sklearn
